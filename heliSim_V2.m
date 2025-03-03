@@ -8,7 +8,7 @@ n = 10; % Number of blade sections
 N = 4; % Number of blades
 
 % Environmental and aircraft parameters
-M = 1770; % Mass of helicopter (kg)
+M = sizing(); % Mass of helicopter (kg)
 W = 9.81 * M; % Weight (N)
 rho = 1.225; % Air density (kg/m^3)
 A = pi * R^2; % Rotor disk area
