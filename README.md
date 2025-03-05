@@ -1,6 +1,7 @@
-Justification of Values used in initial weight estimate.
-=======
+Credits to Daniel Hall for the Helisim, and to Dylan Powell for the inital sizing.
 
+Justification of Values used in initial weight estimate.
+------------
 1.0 Estimation and Justification of Values
 1.1 Weight of people is the weight of the crew and the weight of the passengers.
 According to the course documentation (CourseDocumentation document) crew
